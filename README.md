@@ -11,6 +11,6 @@ docker-compose up -d
 ```
 
 # Images
-![](https://github.com/JhonnyVeraCervantes/Owncloud/blob/main/owncloud.PNG)
+![](https://github.com/JhonnyVeraCervantes/Owncloud/blob/main/Owncloud%20Install.PNG)
 
 > Owncloud ya Instalado
